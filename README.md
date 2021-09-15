@@ -3,6 +3,9 @@
 ### 프로젝트 개요
 - 진행 기간: 2021-09-15
 
+### 참고 문헌
+[처음 보는 딥러닝 챗봇](https://github.com/keiraydev/chatbot)
+
 ### 산출물
 1. 개발 환경 구축  
     - OS: Windows10  
